@@ -6,7 +6,7 @@ This project is a simplified clone of the **Internet Movie Database (IMDB)** bui
 
 ## Live Demo
 
-[Link](https://imdb-app-harsh.netlify.app/)
+[Link](https://imdb-app-jet.vercel.app/)
 
 ## 🛠️ Tech Stack
 
