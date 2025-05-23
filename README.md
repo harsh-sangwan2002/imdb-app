@@ -1,4 +1,4 @@
-# 🎬 IMDB Clone App using React, React Router & Tailwind CSS
+# 🎬 IMDB App | React, JavaScript, CSS, React Router
 
 This project is a simplified clone of the **Internet Movie Database (IMDB)** built using **React**, **React Router DOM**, and **Tailwind CSS**. It demonstrates core React concepts such as component-based architecture, routing, dynamic pages, and styling with Tailwind.
 
